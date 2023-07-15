@@ -85,7 +85,7 @@
     grid-template-columns: repeat(auto-fit,15rem);
     grid-auto-rows: 1fr;
     justify-content: center;
-    justify-items: flex-start;
+    justify-items: center;
   
   }
   
